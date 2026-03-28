@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-GeoRescue 3DMatch Runner (Full Model Only)
 
-根据消融实验代码提取的 3DMatch 全模型评测脚本。
-用于在 3DMatch benchmark 上评估 GeoRescue (Full)。
-"""
 
 from __future__ import annotations
 
